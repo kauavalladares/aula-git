@@ -1,0 +1,16 @@
+
+historia mais detalhada da criação do git:
+
+https://sempreupdate.com.br/a-historia-do-git/
+
+documentação do git:
+
+https://git-scm.com/doc
+
+aula da plataforma onde eu aprendi a parte basica do git pra dar a aula:
+ 
+https://www.dio.me/
+
+como criar uma chave ssh: 
+
+https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
